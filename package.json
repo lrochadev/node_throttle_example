@@ -1,0 +1,24 @@
+{
+  "name": "node_throttle_example",
+  "version": "1.0.0",
+  "description": "Simple example using rate limit with throttle-queue lib.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrochadev/node_throttle_example.git"
+  },
+  "keywords": [
+    "nodejs",
+    "ratelimit",
+    "throttle"
+  ],
+  "author": "Leonardo Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrochadev/node_throttle_example/issues"
+  },
+  "homepage": "https://github.com/lrochadev/node_throttle_example#readme"
+}
